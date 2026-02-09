@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Name
+author: Wang Ming
 title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
