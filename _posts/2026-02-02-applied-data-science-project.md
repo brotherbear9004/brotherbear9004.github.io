@@ -204,4 +204,7 @@ Transparency helps build trust and enables effective use of the model's insights
 *   **Communicating Limitations**: Being transparent about what the model can and cannot do, and the potential biases or inaccuracies, is crucial. This manages expectations and prevents over-reliance on automated predictions.
 
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link here. 
+Upload your model files and dataset into a GitHub repo and add the link here. https://github.com/brotherbear9004/ITD214_project_data
+Dataset and Python code.
+[8090787y_itd214_project.zip](https://github.com/user-attachments/files/25322316/8090787y_itd214_project.zip)
+
