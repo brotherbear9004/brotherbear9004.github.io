@@ -137,6 +137,9 @@ The top 5 most important features for the RandomForestClassifier in predicting u
 3.  **week_of_year**: 0.1112
 4.  **day_of_month**: 0.1067
 5.  **month**: 0.0635
+<img width="853" height="509" alt="image" src="https://github.com/user-attachments/assets/7411699c-7ad8-4ca7-89b8-6784fad4dd6c" />
+
+   
 
 ## Recommendation and Analysis
 
